@@ -3,7 +3,7 @@
 http_path = "/"
 css_dir = "css"
 font_dir = "fonts"
-sass_dir = "scss"
+sass_dir = "sass"
 images_dir = "img"
 javascript_dir = "js"
 
