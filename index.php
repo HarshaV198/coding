@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
+<?php include 'header.php' ?>
 
-    </head>
-    <body>
-
-    </body>
-</html>
+<?php include 'footer.php' ?>

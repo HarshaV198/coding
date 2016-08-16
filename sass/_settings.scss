@@ -1,0 +1,18 @@
+ul ,li , h1, h2, h3, h4, h5,h6, p , body{
+  margin: 0;
+  padding:0 ;
+}
+
+a:visited{  text-decoration: none;outline:none;background-color: inherit}
+a:focus{  text-decoration: none;outline:none;background-color: inherit}
+a:active{  text-decoration: none;outline:none;background-color: inherit}
+a:link{  text-decoration: none;outline:none;background-color: inherit}
+
+a{
+  color: #00b3ee;
+}
+a:hover{
+  text-decoration: none;
+  cursor: pointer;
+}
+
