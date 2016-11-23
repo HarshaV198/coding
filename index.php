@@ -10,7 +10,6 @@
                                 <label>First Name</label>
                                 <input type="text" class="form-control" />
                             </div>
-                            
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
